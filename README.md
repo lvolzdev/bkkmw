@@ -1,10 +1,10 @@
 ### Hi 👋
 
 ### Skills 🛠️
-- **Languages**:&nbsp;                         Java, SQL
-- **BE**: &nbsp; Spring, Spring Security, JPA
-- **FE**: &nbsp; React, Vue.js
-- **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker
+- **Languages**: &nbsp; Java, SQL
+- **Back-Eend**: &nbsp; Spring, Spring Security, JPA
+- **Front-End**: &nbsp; React, Vue.js
+- **DevOps**:    &nbsp; Linux, Git, Docker
 
 ### Education & Experience 🎓
 - Electronics, Konkuk Univ. (2016 - 2022)
