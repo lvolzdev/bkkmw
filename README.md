@@ -18,21 +18,20 @@
 
 ---
 
-<h4 align="center"> about
+<h4 align="center">
 <br><br/>
 <br/>
 <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkkmw&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 <br/>
 <small>Languages used in my public repos</small>
 <br/><br/>
-  
-![BK's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkkmw&show_icons=true&theme=dark)
-
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=bkkmw&show_icons=true&theme=dark" alt="Top language used in my repos" />
+<br/>
+<small>Github stats</small>
+<br/><br/>
+👋 About me 👋
 <br/>
 <a href="https://bkkmw.tistory.com/"><img src="https://img.shields.io/badge/Weird Blog-F15833?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/roboticts49@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/> 
 <a href="https://www.instagram.com/bkkmw/"><img src="https://img.shields.io/badge/instagram-F1C2FF.svg?logo=instagram&logoColor=pupple&style=flat&link=https://www.instagram.com/bae.3007/"/></a>
-
-
-
 
