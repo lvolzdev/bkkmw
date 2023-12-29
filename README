@@ -1,0 +1,9 @@
+git add app.txt 
+git commit -m 'create first file'
+git add app2.txt
+git commit -m 'modify'
+git add . # 모든 파일 스테이징
+git log --all --oneline # 모든 로그 한 줄씩 보여주기
+
+git commit -am '한 번에 add랑 commit하기'
+git add . && git commit -m '한 번에'
