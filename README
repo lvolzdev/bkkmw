@@ -9,6 +9,6 @@ git commit -am # 한 번에 add랑 commit하기
 git add . && git commit -m # 한 번에
 
 # ignore 처리 .. 스테이징 된 것을 일단 모두 되돌리기! 왜냐 add된 상태에서 .gitignore가 안 통하기 때문
-git rm -r --cached
+git rm -r --cached . # 캐시 다 삭제
 git add .
 git commit -m 'Apply .gitignore'
