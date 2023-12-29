@@ -5,5 +5,10 @@ git commit -m 'modify'
 git add . # 모든 파일 스테이징
 git log --all --oneline # 모든 로그 한 줄씩 보여주기
 
-git commit -am '한 번에 add랑 commit하기'
-git add . && git commit -m '한 번에'
+git commit -am # 한 번에 add랑 commit하기
+git add . && git commit -m # 한 번에
+
+# ignore 처리 .. 스테이징 된 것을 일단 모두 되돌리기! 왜냐 add된 상태에서 .gitignore가 안 통하기 때문
+git rm -r --cached
+git add .
+git commit -m 'Apply .gitignore'
